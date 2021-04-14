@@ -49,6 +49,16 @@ $ python Inpainting.py
 
 After this stage, we now have the inpainted image, which is the target view of the given input image.   
 
+Check out some other work in novel view synthesis
+
+- [Multi-view 3D Models from Single Images with a Convolutional Network](https://arxiv.org/abs/1511.06702) in CVPR 2016
+- [View Synthesis by Appearance Flow](https://arxiv.org/abs/1605.03557) in ECCV 2016
+- [Transformation-Grounded Image Generation Network for Novel 3D View Synthesis](https://arxiv.org/abs/1703.02921) in CVPR 2017
+- [Neural scene representation and rendering](http://science.sciencemag.org/content/360/6394/1204) in Science 2018
+- [Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis](https://arxiv.org/abs/1601.00706) in NIPS 2015
+- [DeepStereo: Learning to Predict New Views From the World's Imagery](https://arxiv.org/abs/1506.06825) in CVPR 2016
+- [Learning-Based View Synthesis for Light Field Cameras](http://cseweb.ucsd.edu/~viscomp/projects/LF/papers/SIGASIA16/) in SIGGRAPH Asia 2016  
+- [Novel View Synthesis in TensorFlow](https://github.com/shaohua0116/NovelViewSynthesis-TensorFlow)
 
 
 References   
