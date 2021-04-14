@@ -65,6 +65,6 @@ References
 [1] Multi-view to Novel View: Synthesizing Novel Views with Self-Learned Confidence,Sun, Shao-Hua et. al.,2018]  
 
 ## Authors  
-[Nikhil N.A](https://lucciffer.github.io/)  
+[Nikhil A](https://lucciffer.github.io/)  
 [Praveen C](https://github.com/praveensc319)  
 [Jagadish B](https://github.com/jagadishb1409)  
