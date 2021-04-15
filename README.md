@@ -67,4 +67,5 @@ References
 ## Authors  
 [Nikhil A](https://lucciffer.github.io/)  
 [Praveen C](https://github.com/praveensc319)  
-[Jagadish B](https://github.com/jagadishb1409)  
+[Jagadish B](https://github.com/jagadishb1409)   
+[Vijayalaxmi P](https://github.com/vijupatil)  
