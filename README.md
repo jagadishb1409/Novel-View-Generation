@@ -8,7 +8,8 @@
 ![Anaconda](https://img.shields.io/badge/-Anaconda-FFFFFF?logo=anaconda)
 
 
-# Novel-view-generation
+# Novel-view-generation  
+### [Project Page](https://nikhilna2000.wixsite.com/novelviewsyn)
 ## Description about the project  
 This project is the implementation of a [**novel view systhesis**](./Project-report:Novel-view-generation.pdf) which aims to generate/systhesize a target view with an arbitrary camera pose from a given source view and its camera pose as shown in figure below[1].
 
