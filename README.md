@@ -23,7 +23,7 @@ This project is the implementation of a [**novel view systhesis**](./Project-rep
 </p>
 
 ## Requirements  
-- Python 3.x
+- [Python 3.x](https://www.python.org/downloads/)
 - [Open3D](https://pypi.org/project/open3d-python/)
 - [OpenCV](https://docs.opencv.org/master/d2/de6/tutorial_py_setup_in_ubuntu.html)
 - [Matplotlib](https://pypi.org/project/matplotlib/)
